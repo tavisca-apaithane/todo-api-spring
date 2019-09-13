@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="random.main" target="1.8" />
       <module name="random.test" target="1.8" />
+      <module name="Spring.random.main" target="1.8" />
+      <module name="Spring.random.test" target="1.8" />
       <module name="SpringFrameWorkDemo.random.main" target="1.8" />
       <module name="SpringFrameWorkDemo.random.test" target="1.8" />
     </bytecodeTargetLevel>
@@ -153,6 +155,8 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring.random.main.iml" filepath="$PROJECT_DIR$/Spring.random.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring.random.test.iml" filepath="$PROJECT_DIR$/Spring.random.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringFrameWorkDemo.random.main.iml" filepath="$PROJECT_DIR$/SpringFrameWorkDemo.random.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringFrameWorkDemo.random.test.iml" filepath="$PROJECT_DIR$/SpringFrameWorkDemo.random.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/random.iml" filepath="$PROJECT_DIR$/random.iml" />
@@ -162,6 +166,9 @@
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_10" project-jdk-name="10" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: ch.qos.logback:logback-classic:1.2.3">
